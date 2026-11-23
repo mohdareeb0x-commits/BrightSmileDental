@@ -11,6 +11,11 @@ const inter = Inter({
 
 export const metadata: Metadata = {
   title: 'Free Teeth Whitening Consultation | Bright Smile Dental',
+  icons: {
+    icon: '/favicon.svg',
+    shortcut: '/favicon.svg',
+    apple: '/favicon.svg',
+  },
   description: 'Get a brighter smile with a free, no-obligation whitening consultation. 30 minutes, zero pressure, same-week appointments. Book your spot this month.',
   keywords: ['teeth whitening', 'dental consultation', 'cosmetic dentistry', 'free consultation', 'Austin dentist'],
   authors: [{ name: 'Bright Smile Dental' }],
